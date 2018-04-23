@@ -1,6 +1,6 @@
 ### Commands
 
-bye                                Quit sftp
+```bye                                Quit sftp
 cd path                            Change remote directory to 'path'
 chgrp grp path                     Change group of file 'path' to 'grp'
 chmod mode path                    Change permissions of file 'path' to 'mode'
@@ -35,3 +35,4 @@ version                            Show SFTP version
 !command                           Execute 'command' in local shell
 !                                  Escape to local shell
 ?                                  Synonym for help
+```
